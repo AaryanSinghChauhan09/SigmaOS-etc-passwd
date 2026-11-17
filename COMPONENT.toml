@@ -3,7 +3,7 @@ name = "SigmaOS-etc-passwd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "etc-passwd component"
+description = "etc passwd"
 upstream = []
 
 [contract]
